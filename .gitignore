@@ -1,2 +1,5 @@
+
+# Let's keep these two away from te repo - there are local settings and temporary files
+# '/' gives git the explicit idea - this is a folder
 .pio/
 .vscode/
